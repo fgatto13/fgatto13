@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fgatto13
-- 👀 I’m interested in CS, AI and web development, but also Lego, music and watches.
-- 🌱 I’m currently learning algorithms on a theorethical point of view, but also Unity3D, React and SpringBoot, but in the future I'm looking to expand my knowledges in multiple aspects of CS.
-- 💞️ I’m looking to collaborate on web based projects, and I would love to talk about and work on new and innovative ideas in different environments.
+- 👀 I’m interested in Graphic design, AI and web development, but also Lego, music and watches.
+- 🌱 I’m currently learning algorithms design, but also Unity3D using custom C# scripts, React and SpringBoot, and in the future I'd like to expand my knowledges in multiple aspects of CS, deepening my knowledge in AI and how to use it efficiently.
+- 💞️ Even though I'm strengthening my knowledge in web development, and therefore I'd love to take part in the development of some interesting web based app, I'm planning to work on new and innovative ideas in different environments.
 - 📫 How to reach me:
 - email: francescogatto2001@gmail.com
-- linkedIn profile: linkedin.com/in/francescogatto1
+- linkedIn profile: <a href="linkedin.com/in/francescogatto1">linkedin.com/in/francescogatto1</a>
