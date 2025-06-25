@@ -41,8 +41,8 @@ While I have side interests in areas like **web development**, **human-computer 
 
 ## 🧪 Tools & Technologies
 
-- Languages: `Java`, `Python`, `C`, `C#`, `JavaScript`
-- Frameworks: `SpringBoot`, `React`, `Jakarta EE`, `Unity3D`
+- Languages: `Java`, `Python`, `C`, `JavaScript`
+- Frameworks: `SpringBoot`, `Jakarta EE`
 - Databases: `PostgreSQL`, `MySQL`, `JDBC`, `Spring Data`
 - Networking & OS: `Linux`, `Wireshark`, `Cisco Packet Tracer`
 - Cloud & Distributed: `Docker`, `REST`, `SOAP`, `EJB`
