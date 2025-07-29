@@ -1,71 +1,62 @@
-# 🌩️ Cloud Computing Preparation – Personal Roadmap & Projects
+# 👋 Hi, I'm @fgatto13 — a Curious and Driven CS Graduate
 
-👋 Hi, I’m @fgatto13  
-🌱 I’m currently revisiting and deepening my knowledge in core Computer Science topics as part of my preparation for a career in **Cloud Computing**, with the long-term goal of working as a **Cloud Architect**, particularly in **enterprise-level (B2B) infrastructures**.
+🎓 I'm a Bachelor’s graduate in Computer Science with a broad set of interests across the tech landscape. From full stack web development to embedded systems, network infrastructure, distributed systems, and even the ever-evolving world of ML/AI — I’m passionate about understanding how complex systems work from the ground up.
 
-While I have side interests in areas like **web development**, **human-computer interaction**, and **computer graphics**, my current focus is on building a robust and practical understanding of the technologies and systems that underpin modern cloud platforms.  
-
-> ⚠️ This roadmap is **not a learning curve mapping**, but a **portfolio-focused recap** of the foundational knowledge I’ve already acquired through academic study and personal projects. It is structured to consolidate and apply this knowledge through targeted projects.
+🌩️ My long-term goal is to build impactful systems in the **Cloud Computing** space. That said, I'm always open to exciting opportunities that let me grow, solve real-world problems, and learn new things along the way.
 
 ---
 
-## 🧭 Roadmap Overview
+## 🛠️ What I'm Working On
 
-| Phase | Area                        | Status         |
-|-------|-----------------------------|----------------|
-| 1     | Programming Fundamentals     | 🟢 In Progress |
-| 2     | Data Structures & Algorithms | 🔲 Not Started |
-| 3     | Operating Systems            | 🔲 Not Started |
-| 4     | Databases                    | 🔲 Not Started |
-| 5     | Networking                   | 🔲 Not Started |
-| 6     | Distributed Systems          | 🔲 Not Started |
-| 7     | Capstone Project             | 🔲 Not Started |
-
-> 🔄 This roadmap evolves over time. Follow progress here or on [LinkedIn](https://linkedin.com/in/francescogatto1).
+### 🔹 Python Learning Journey
+I'm currently dedicating most of my time to learning **Python**, with a focus on:
+- Solid OOP fundamentals
+- Working with databases and APIs
+- Preparing for full-scale projects (planned soon!)
+  
+Check out my structured Python learning repo:  
+📘 [Python_fromScratch](https://github.com/fgatto13/Python_fromScratch) – Theory + Practice, all in one place.
 
 ---
 
-## 📂 Project Folders
+### 🔹 Past University Projects (ReactJS + Spring Boot)
 
-| Folder | Description |
-|--------|-------------|
-| `programming-fundamentals/` | OOP and functional programming recaps in Java and Python |
-| `dsa-practice/`             | DSA implementation and problem-solving in Python and C |
-| `operating-systems/`        | Shells, schedulers, system call simulations, and threading |
-| `databases/`                | SQL, design principles, security (incl. injection demos) |
-| `networks/`                 | CPT topologies, sockets, DNS/DHCP simulations |
-| `distributed-systems/`      | EJB-based service systems, Jakarta EE architecture |
-| `final-capstone/`           | A complete distributed system with full documentation |
+Even though these were part of university coursework, they reflect my early experience with full stack and frontend design:
+
+- 🌐 [MetaClass](https://github.com/fgatto13/MetaClass): A full stack platform using **ReactJS** (frontend) and **Spring Boot** (backend) for managing university lectures and collaboration.
+- 🎨 [CulturEase_HCI](https://github.com/fgatto13/CulturEase_HCI): A human-computer interaction prototype for a cultural content app, focused on **user experience and UI design**.
+
+> These projects are currently deprecated, but still represent my earlier explorations into frontend/backend development and HCI.
 
 ---
 
-## 🧪 Tools & Technologies
+## 🚀 Tech Interests
 
-- Languages: `Java`, `Python`, `C`, `JavaScript`
-- Frameworks: `SpringBoot`, `Jakarta EE`
-- Databases: `PostgreSQL`, `MySQL`, `JDBC`, `Spring Data`
-- Networking & OS: `Linux`, `Wireshark`, `Cisco Packet Tracer`
-- Cloud & Distributed: `Docker`, `REST`, `SOAP`, `EJB`
-
----
-
-## 🧱 Structure and Best Practices
-
-- Each folder contains:
-  - `/docs` → ER/UML/network diagrams, architecture notes
-  - `/src` or `/code` → Clean, modular, commented code
-  - `README.md` → Clear intro, technologies used, goals, how to run
-- Clean commit history, progressive refactoring, best practices
-- Integration of design patterns, system design, and documentation
+- **🌐 Full Stack Web Development**
+- **🧠 ML/AI** (early stage, but eager to explore!)
+- **🔧 Embedded & System-Level Programming**
+- **📡 Network Infrastructure & Distributed Systems**
+- **📦 Cloud-Native Development & Architecture**
+- **🧩 Software Design and Architecture**
 
 ---
 
-## 📫 Contact
+## 🎯 Goals for the Near Future
 
-- Email: francescogatto2001@gmail.com  
-- LinkedIn: [linkedin.com/in/francescogatto1](https://linkedin.com/in/francescogatto1)  
-- GitHub: [github.com/fgatto13](https://github.com/fgatto13)
+- ✅ Finish Python fundamentals & create original full stack projects  
+- 🚀 Start integrating **NumPy**, **PyTorch**, and **CUDA (in C)** for ML/high-performance applications  
+- 🔧 Dive deeper into **network protocols**, **distributed design**, and **cloud-native systems**
 
 ---
 
-> 🚀 Reviewing and connecting all the pieces—one project at a time.
+## 🌱 Let's Connect
+
+I'm always happy to connect with people in tech — whether you're hiring, collaborating, or just want to exchange ideas.
+
+📫 francescogatto2001@gmail.com
+🔗 [linkedin.com/in/francescogatto1](https://linkedin.com/in/francescogatto1)  
+🌍 [github.com/fgatto13](https://github.com/fgatto13)
+
+---
+
+> This README will evolve as I grow — more projects and insights coming soon!
