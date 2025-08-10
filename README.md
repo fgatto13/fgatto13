@@ -19,9 +19,12 @@ Check out my structured Python learning repo:
 
 ### 💻 Projects live now!
 These are a bunch of projects that I have done to reinforce my knowledge in Python, other than because I wanted to!
-👾 [PythonPkmnFinder](https://github.com/fgatto13/PythonPkmnFinder) - A simple yet fun Pokémon app that emulates a Pokédex using the PyQt5 library, allowing you to search for a specific mon via [PokeAPI](http://pokeapi.co/)
-🏎️ [PythonF1Analytics](https://github.com/fgatto13/PythonF1Analytics) - F1 data analytics tool built using Python and the [OpenF1](https://openf1.org) API. Currently working on it (and planning to have quite a big project, so check it out constantly!)
-🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project — a PyQt5 digital clock with custom fonts, logging, error handling, and macOS packaging.
+
+👾 [PythonPkmnFinder](https://github.com/fgatto13/PythonPkmnFinder) - A simple yet fun Pokémon app that emulates a Pokédex using the PyQt5 library, allowing you to search for a specific mon via [PokeAPI](http://pokeapi.co/).
+
+🏎️ [PythonF1Analytics](https://github.com/fgatto13/PythonF1Analytics) - F1 data analytics tool built using Python and the [OpenF1](https://openf1.org) API. Currently working on it (and planning to have quite a big project, so check it out constantly!).
+
+🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project, a PyQt5 digital clock with custom fonts, logging, error handling, and macOS packaging.
 
 ---
 
