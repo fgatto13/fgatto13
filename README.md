@@ -20,13 +20,10 @@ Check out my structured Python learning repo:
 ### 💻 Projects live now!
 These are a bunch of projects that I have done to reinforce my knowledge in Python, other than because I wanted to!
 
-👾 [PythonPkmnFinder](https://github.com/fgatto13/PythonPkmnFinder) - A simple yet fun Pokémon app, emulates a Pokédex using PyQt5, allowing you to search for any mon via [PokeAPI](http://pokeapi.co/).
-
-🏎️ [PythonF1Analytics](https://github.com/fgatto13/PythonF1Analytics) - F1 data analytics tool built using Python and the [OpenF1](https://openf1.org) API. Currently working on it!
-
-🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project, a PyQt5 digital clock with custom fonts, logging, error handling and macOS packaging.
-
-🌤️ [PythonWeatherApp](https://github.com/fgatto13/PythonWeatherApp) - The classic of the classics, a PyQt5 Weather app made using [OpenWeatherAPI](https://openweathermap.org/). Features light and dark mode, too!
+- 👾 [PythonPkmnFinder](https://github.com/fgatto13/PythonPkmnFinder) - A simple yet fun Pokémon app, emulates a Pokédex using PyQt5, allowing you to search for any mon via [PokeAPI](http://pokeapi.co/).
+- 🏎️ [PythonF1Analytics](https://github.com/fgatto13/PythonF1Analytics) - F1 data analytics tool built using Python and the [OpenF1](https://openf1.org) API. Currently working on it!
+- 🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project, a PyQt5 digital clock with custom fonts, logging, error handling and macOS packaging.
+- 🌤️ [PythonWeatherApp](https://github.com/fgatto13/PythonWeatherApp) - The classic of the classics, a PyQt5 Weather app made using [OpenWeatherAPI](https://openweathermap.org/). Features light and dark mode, too!
 
 ---
 
