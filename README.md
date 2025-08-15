@@ -24,11 +24,7 @@ These are a bunch of projects that I have done to reinforce my knowledge in Pyth
 
 🏎️ [PythonF1Analytics](https://github.com/fgatto13/PythonF1Analytics) - F1 data analytics tool built using Python and the [OpenF1](https://openf1.org) API. Currently working on it!
 
-🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project, a PyQt5 digital clock with:
-- custom fonts
-- logging
-- error handling
-- macOS packaging.
+🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project, a PyQt5 digital clock with custom fonts, logging, error handling and macOS packaging.
 
 🌤️ [PythonWeatherApp](https://github.com/fgatto13/PythonWeatherApp) - The classic of the classics, a PyQt5 Weather app made using [OpenWeatherAPI](https://openweathermap.org/). Features light and dark mode, too!
 
