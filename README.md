@@ -26,6 +26,8 @@ These are a bunch of projects that I have done to reinforce my knowledge in Pyth
 
 🕰️ [PythonDigitalClock](https://github.com/fgatto13/PythonDigitalClock) - My first full Python project, a PyQt5 digital clock with custom fonts, logging, error handling, and macOS packaging.
 
+🌤️ [PythonWeatherApp](https://github.com/fgatto13/PythonWeatherApp) - The classic of the classics, a PyQt5 Weather app made using [OpenWeatherAPI](https://openweathermap.org/). Features light and dark mode, too!
+
 ---
 
 ### 🔹 Past University Projects (ReactJS + Spring Boot)
